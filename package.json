@@ -1,0 +1,11 @@
+{
+  "name": "bookmarklets",
+  "version": "1.0.0",
+  "description": "A repo to share my bookmarklets.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Prather",
+  "license": "ISC"
+}
